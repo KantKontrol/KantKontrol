@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Hello 👋🏻](https://github.com/KantKontrol/KantKontrol/blob/master/banner1.jpg?raw=true)](https://www.skolltech.dev)
 
 <!--
 **KantKontrol/KantKontrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
