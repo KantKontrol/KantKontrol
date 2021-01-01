@@ -2,6 +2,6 @@
 
 ## Hello, I am a Software Enthusiast located in the Greater New York City Area! Follow me on Instagram [@nicholas.uber.dev](https://www.instagram.com/nicholas.uber.dev)!
 
-### 🔭 I’m currently working on [Electron-Scheduler](https://github.com/KantKontrol/Electron-Scheduler)!
+### 🔭 I’m currently working on [Spotify-Clone](https://github.com/KantKontrol/Spotfiy-Clone)!
 
 
